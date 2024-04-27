@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-5a16008c\",\"path\":\"/posts/signal/1.html\",\"title\":\"闪存信道资料\",\"lang\":\"zh-CN\",\"frontmatter\":{\"icon\":\"pen-to-square\",\"date\":\"2023-04-27T00:00:00.000Z\",\"category\":[\"知识\"],\"tag\":[\"闪存\",\"信道\"],\"star\":true,\"sticky\":true,\"description\":\"闪存信道资料 闪存信道资料 从NAND Flash内部电路分析读操作 - 知乎 - https://zhuanlan.zhihu.com/p/20204398 MLC Nand Flash读操作 - 知乎 - https://zhuanlan.zhihu.com/p/20214013 NAND系列-Threshold Voltage &amp; Vt Distribution - 知乎 - https://zhuanlan.zhihu.com/p/77975234\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://openai.com/posts/signal/1.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"miku\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"闪存信道资料\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"闪存信道资料 闪存信道资料 从NAND Flash内部电路分析读操作 - 知乎 - https://zhuanlan.zhihu.com/p/20204398 MLC Nand Flash读操作 - 知乎 - https://zhuanlan.zhihu.com/p/20214013 NAND系列-Threshold Voltage &amp; Vt Distribution - 知乎 - https://zhuanlan.zhihu.com/p/77975234\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"qem\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"闪存\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"信道\"}],[\"meta\",{\"property\":\"article:published_time\",\"content\":\"2023-04-27T00:00:00.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"闪存信道资料\\\",\\\"image\\\":[\\\"\\\"],\\\"datePublished\\\":\\\"2023-04-27T00:00:00.000Z\\\",\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"qem\\\",\\\"url\\\":\\\"https://user.qzone.qq.com/1441407386\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.26,\"words\":79},\"filePathRelative\":\"posts/signal/1.md\",\"localizedDate\":\"2023年4月27日\",\"excerpt\":\"<h1> 闪存信道资料</h1>\\n<p>闪存信道资料</p>\\n<ul>\\n<li>从NAND Flash内部电路分析读操作 - 知乎 - <a href=\\\"https://zhuanlan.zhihu.com/p/20204398\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">https://zhuanlan.zhihu.com/p/20204398</a></li>\\n<li>MLC Nand Flash读操作 - 知乎 - <a href=\\\"https://zhuanlan.zhihu.com/p/20214013\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">https://zhuanlan.zhihu.com/p/20214013</a></li>\\n<li>NAND系列-Threshold Voltage &amp; Vt Distribution - 知乎 - <a href=\\\"https://zhuanlan.zhihu.com/p/77975234\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">https://zhuanlan.zhihu.com/p/77975234</a></li>\\n</ul>\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
